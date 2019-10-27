@@ -1,5 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Charlie Dussault
+- Photo: 
+- Location: Marseille, France
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Student 🔥
+- Github: https://www.linkedin.com/in/charlie-ld/
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
